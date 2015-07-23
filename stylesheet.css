@@ -1,4 +1,8 @@
-.bookCard {
+.book {
     background: #FAFAFA;
-    height: auto;
+    padding: 40px;
+}
+
+.book h1 {
+    font-size: 3em;
 }
