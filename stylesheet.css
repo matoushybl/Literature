@@ -6,21 +6,26 @@
 }
 
 .book h1 {
-    margin-top: 20px;
+    color: rgba(0, 0, 0, 0.54);
+    margin-top: 56px;
     margin-bottom: 10px;
-    font-size: 48px;
-    line-height: 48px;
+    font-size: 34px;
     font-weight: 400;
 }
 
 .book h2 {
-    margin-top: 20px;
-    margin-bottom: 10px;
-    font-size: 32px;
-    line-height: 32px;
+    color: rgba(0, 0, 0, 0.54);
+    margin-top: 17px;
+    margin-bottom: 0px;
+    font-size: 20px;
     font-weight: 500;
 }
 
+.book p {
+    font-weight: 400;
+    line-height: 22px;
+}
+
 .content {
-    background: #DADADA;
+    background: #f2f2f2;
 }
