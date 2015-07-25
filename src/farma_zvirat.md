@@ -1,8 +1,8 @@
-#Povinná četba
-
-#1984 - George Orwell
-
 #Farma zvířat - George Orwell
+
+##Úvod
+_where was it written, why, style_
+
 ##Postavy
 * Farmář Jones
 * Prase Major - autor myšlenky revoluce
@@ -13,22 +13,11 @@
 * prase Pištík - přisluhovač - slouží oběma prasatům, Ovčáček
 * 9 psů - ochranka
 
-##zapamatovat
+##Příběh
+
+##Ponaučení, hlavní myšlenka díla
+
+##K zapamatování
 * změny minulosti (stavba mlýna) stejně jako v 1984
 
-> Template
-
-#Name - Author
-
-#Intro
-_where was it written, why, style_
-
-#Characters
-
-#Story
-
-#Moral
-
-# To be remembered
-
-#Conclusion
+##Závěr
